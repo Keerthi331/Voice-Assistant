@@ -1,1 +1,1 @@
-<center>Voice Assistant</center>
+<center><b>Voice Assistant</b></center>
